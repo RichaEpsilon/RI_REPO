@@ -1,12 +1,22 @@
-V0.1.0 (2022-11-14)
+# 1.x
 
-New Features
-git: add support for breaking changes (#34) (d697b273)
+## V0.1.0 [2022-11-14]
 
-Bug Fixes
-writer: fix commit URL for BitBucket repos (#33) (0492e91a)
+## Feature & Enhancement
 
-V0.1.0 (2022-11-14)
-New Features
+- created shared library hosting the core AMS functionality
+- created shared library hosting the core AMS functionality
+- created shared library hosting the core AMS functionality
+- created shared library hosting the core AMS functionality
 
-writer: add links to PRs numbers in commits text (#31) (7015d433)
+## Bug Fixes
+
+- Fix bugs related to eslint
+- Fixed bugs for duplicate destinations
+
+## Breaking Changes
+
+- change in routing module to accept the parent route from source application
+- user input param to be passed from core-activation service
+
+
